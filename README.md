@@ -1,51 +1,66 @@
 # Привет, я Кирилл
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vdyplesosiska2026-ux&label=Profile%20Views&color=555555&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-GameDev%20%26%20Bots-000000?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Active%20Learner-000000?style=flat-square" alt="Status" />
+</p>
+
 ### Обо мне
-Мне 14 лет, я начинающий разработчик. Увлекаюсь геймдевом, системным программированием и созданием ботов. Постоянно изучаю что-то новое, разбираюсь в архитектуре игровых движков и практикуюсь на собственных проектах.
+Мне 14 лет, я начинающий разработчик. Создаю игры, изучаю внутренности движков, пишу Telegram-ботов на Python и разбираюсь в низкоуровневом системном коде. Постоянно экспериментирую с архитектурой и новыми механиками.
 
 ---
 
-### Чем я занимаюсь
-- **GameDev:** Пробую себя в разработке 3D-игр, изучаю движки и механику взаимодействия объектов
-- **Боты:** Пишу Telegram-ботов на Python под разные задачи и автоматизацию
-- **Код:** Осваиваю системные языки и погружаюсь в логику бэкенда
+### Направления разработки
+
+- **GameDev:** Проектирование игровых механик, исследование 3D-движков, физики и логики взаимодействия объектов
+- **Автоматизация и боты:** Архитектура асинхронных Telegram-ботов под прикладные задачи
+- **Системный код:** Погружение в структуры данных, работу с памятью и производительность
 
 ---
 
-### Стек и технологии
+### Стек технологий
 
 #### Языки программирования
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,lua,js" alt="Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,lua,js,bash" alt="Languages" />
+  </a>
 </p>
 
 #### Игровые движки и 3D
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=godot,unity,threejs" alt="Game Engines and 3D" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,unity,threejs,blender" alt="Engines & 3D" />
+  </a>
 </p>
 
-#### Инструменты
+#### Инструменты и окружение
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux" alt="Tools" />
-  <img src="https://img.shields.io/badge/-Telegram%20Bot%20API-2CA5E0?style=flat&logo=telegram&logoColor=white" height="48" alt="Telegram API" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Tools & Environment" />
+  </a>
 </p>
 
 ---
 
-### Сертификаты и курсы
+### Пройденные курсы и программы
+
+- **Stepik** — *«Поколение Python»: базовый и продвинутый курсы*
+- **Stepik** — *Асинхронное программирование и создание ботов на Aiogram 3*
+- **Udemy** — *Complete 3D Game Development in Godot 4: From Scratch to Systems*
 - **freeCodeCamp** — *Scientific Computing with Python Certification*
-- **Stepik** — *«Поколение Python»: курс для начинающих и продвинутых*
-- **Udemy** — *Complete Godot 4 3D Game Development Course*
-- **Stepik** — *Разработка Telegram-ботов на Python (Aiogram)*
+- **freeCodeCamp** — *Foundational C# with Microsoft Certification*
 
 ---
 
 ### Статистика активности
+
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ТВОЙ_НИКНЕЙМ&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ТВОЙ_НИКНЕЙМ&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vdyplesosiska2026-ux&theme=github_dark" height="150" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vdyplesosiska2026-ux&theme=github_dark" height="150" alt="Most Used Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vdyplesosiska2026-ux&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vdyplesosiska2026-ux&theme=github_dark_dimmed&hide_border=true" height="150" alt="GitHub Streak" />
 </p>

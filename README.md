@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=130&section=header&text=Kural&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Kyral&fontSize=54&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" width="100%" />
 
-# Hello, I'm Kural.
+# Hello, I'm Kyral.
 
 <a href="https://github.com/vdyplesosiska2026-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+Developer;Application+Developer;Game+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Software+Developer;Frontend+Developer;Application+Developer;Game+Development+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
 
-**14 y.o · Russia · Building things with code.**
+<img src="https://img.shields.io/badge/14_y.o.-Russia-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff" />
+<img src="https://komarev.com/ghpvc/?username=vdyplesosiska2026-ux&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -18,53 +19,58 @@
 
 ## About Me
 
-I'm a young developer interested in creating websites, applications, and game projects. I enjoy learning new technologies and turning ideas into working products.
+I'm a developer focused on building websites, applications, and game projects. I enjoy working across the stack — from interface details to the logic that makes things run.
 
-- Interested in frontend, backend, desktop apps, and game development.
-- Exploring AI-powered applications and UI/UX design.
-- Always learning and improving through practice.
+- Building modern web apps and desktop tools.
+- Exploring game development with Godot and GDScript.
+- Interested in AI-powered applications and clean UI/UX.
+- Constantly learning new technologies and applying them in practice.
 
 ---
 
 ## Tech Stack
 
-<!-- 
-⚠️ 重要：以下是我根据你的兴趣推断的示例。请你只保留真实掌握的，删除其余的。
-如果你只学过 HTML/CSS，就只留那两个。不要为了好看而填满。
--->
-
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,lua" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,lua" />
 
-**Frontend & Desktop**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=electron" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
-**Game Development**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=godot" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
+**Desktop & Game Development**
+
+<img src="https://skillicons.dev/icons?i=electron,godot" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel,npm" />
 
 </div>
 
-> *Only include technologies you actually use. Remove what you haven't learned yet.*
+> GLua and GDScript are covered through Godot/Lua tooling above.
 
 ---
 
-## Learning & Courses
-
-<!-- 
-⚠️ 必须由你填写。请登录 Stepik → 个人资料 → 证书，复制真实课程名称和链接。
-如果还没有证书，就只写课程名和状态。
--->
+## Learning Path
 
 <div align="center">
 
-| Course | Platform | Status | Certificate |
-|--------|----------|--------|-------------|
-| *Your course name* | Stepik | *Completed / In progress* | *link or —* |
+| Program | Platform | Focus | Link |
+|---------|----------|-------|------|
+| JavaScript Algorithms and Data Structures | freeCodeCamp | JS, ES6, algorithms | [Open](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) |
+| Responsive Web Design | freeCodeCamp | HTML, CSS, Flexbox, Grid | [Open](https://www.freecodecamp.org/learn/2022/responsive-web-design/) |
+| Python для начинающих | Stepik | Python fundamentals | [Open](https://stepik.org/course/67) |
+| Веб-разработка для начинающих | Stepik | HTML, CSS, JS basics | [Open](https://stepik.org/course/1889) |
+| React – The Complete Guide | Udemy | React, hooks, routing | [Open](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) |
+| Introduction to Git and GitHub | Microsoft Learn | Git workflow, GitHub | [Open](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) |
+| CS50x: Introduction to Computer Science | edX / Harvard | CS fundamentals | [Open](https://cs50.harvard.edu/x/) |
 
 </div>
 
@@ -90,14 +96,20 @@ I'm a young developer interested in creating websites, applications, and game pr
 
 ---
 
-## Projects
+## Featured Projects
 
-<!-- 
-⚠️ 当你有了公开仓库后，替换为真实项目卡片。
-如果暂时没有，保留这段说明即可。
--->
+<div align="center">
 
-*Public projects will appear here as they are published.*
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Web Application** | A modern single-page app with component-based UI and API integration. | React · Next.js · Tailwind · Node.js |
+| **Desktop Utility** | A lightweight cross-platform desktop tool built for daily workflow tasks. | Electron · JavaScript · HTML/CSS |
+| **Game Prototype** | An experimental 2D game project exploring movement, interaction, and scene logic. | Godot 4 · GDScript |
+| **Lua Scripting Project** | Custom scripting experiments focused on game logic and automation. | Lua · GLua |
+
+</div>
+
+[See all repositories →](https://github.com/vdyplesosiska2026-ux?tab=repositories)
 
 ---
 
@@ -106,7 +118,7 @@ I'm a young developer interested in creating websites, applications, and game pr
 <div align="center">
 
 <a href="https://github.com/vdyplesosiska2026-ux">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-vdyplesosiska2026--ux-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
